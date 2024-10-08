@@ -2,7 +2,6 @@
 
 <!--
   <<< Author notes: Course header by Téo >>>
-  ![alt text](https://newgenesis.ai/portfolio/imgs/ico.png)
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
@@ -22,6 +21,8 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 -->
 
 ## Step 1: Add headers
+
+ ![alt text](https://newgenesis.ai/portfolio/imgs/ico.png)
 
 _Welcome to "Communicate using Markdown"! :wave:_
 
